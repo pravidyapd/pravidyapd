@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! 👋
+# Hey there!
 
 I'm Pravidya, an Aspiring Full Stack Developer
 
