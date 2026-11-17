@@ -1,5 +1,12 @@
-                                                                             Hey there!
-                                                                            I'm Pravidya
+<div align="center">
+
+# Hey there! 👋
+
+I'm Pravidya, an Aspiring Full Stack Developer
+
+React · Next.js · TypeScript · Java · Spring Boot · Node.js · PostgreSQL
+
+</div>                                                                       
 
 ## 👩‍💻 About Me
 
