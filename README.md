@@ -1,4 +1,4 @@
-# Hi, I'm Pravidya! 👋
+# Hey there!, I'm Pravidya
 
 ## 👩‍💻 About Me
 
